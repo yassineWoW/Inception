@@ -1,0 +1,20 @@
+[mysqld]
+#bind to all interfaces (connection to other containers)
+bind-address = 0.0.0.0
+
+# port to listen on
+port = 3306
+socket = /var/run/mysqld/mysqld.sock
+
+# character set
+character-set-server = utf8mb4
+collation-server = utf8mb4_unicode_ci
+
+
+#Inno settings for better performance
+innodb_buffer_pool_size = 256M
+innodb_log_file_size = 64M
+innodb_flush_method = O_DIRECT
+
+# error logging
+log_error = /var/log/mysql/error.log
