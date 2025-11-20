@@ -449,7 +449,7 @@ This project is part of the 42 School curriculum. All rights reserved.
 **Yassine Imizare**
 
 - GitHub: [yassineWoW](https://github.com/yassineWoW)
-- LinkedIn: [Yassine Imizare](https://linkedin.com/yassine-imizare-11aa95307/)
+- LinkedIn: [Yassine Imizare](https://linkedin.com/in/yassine-imizare-11aa95307)
 
 ---
 
