@@ -448,17 +448,10 @@ This project is part of the 42 School curriculum. All rights reserved.
 
 **Yassine Imizare**
 
-- GitHub: [@yourusername](https://github.com/yassineWoW)
-- LinkedIn: [Your Name](https://linkedin.com/yassine-imizare-11aa95307/)
+- GitHub: [yassineWoW](https://github.com/yassineWoW)
+- LinkedIn: [Yassine Imizare](https://linkedin.com/yassine-imizare-11aa95307/)
 
 ---
-
-## 🙏 Acknowledgments
-
-- **42 School** - For the incredible curriculum
-- **Docker Community** - For excellent documentation
-
-
 
 <div align="center">
 
